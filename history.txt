@@ -7,3 +7,6 @@ Leetcode 146. LRU Cache
 
 30.03
 LeetCode 200. Number of Islands
+
+31.03
+Leetcode 42. Trapping Rain Water
