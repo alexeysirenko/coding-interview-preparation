@@ -33,3 +33,13 @@ Leetcode 560. Subarray Sum Equals K
 Leetcode 1249. Minimum Remove to Make Valid Parentheses
 16.04
 Leetcode 31. Next Permutation
+19.04
+Leetcode 7. Reverse Integer
+Leetcode 176. Second Highest Salary
+21.04
+Leetcode 88. Merge Sorted Array
+
+17.05
+Leetcode 680: Valid Palindrome ||
+Leetcode 17: Letter Combination Phone Number
+Leetcode 443. String Compression
