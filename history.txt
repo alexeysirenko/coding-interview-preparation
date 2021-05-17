@@ -43,3 +43,4 @@ Leetcode 88. Merge Sorted Array
 Leetcode 680: Valid Palindrome ||
 Leetcode 17: Letter Combination Phone Number
 Leetcode 443. String Compression
+Leetcode 1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
