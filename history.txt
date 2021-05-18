@@ -40,7 +40,10 @@ Leetcode 176. Second Highest Salary
 Leetcode 88. Merge Sorted Array
 
 17.05
-Leetcode 680: Valid Palindrome ||
+Leetcode 680: Valid Palindrome 2
 Leetcode 17: Letter Combination Phone Number
 Leetcode 443. String Compression
 Leetcode 1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
+
+18.05
+Leetcode 15. 3Sum
