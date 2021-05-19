@@ -47,3 +47,7 @@ Leetcode 1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cut
 
 18.05
 Leetcode 15. 3Sum
+
+19.05
+853. Car Fleet
+695. Max Area of Island
