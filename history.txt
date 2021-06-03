@@ -51,3 +51,13 @@ Leetcode 15. 3Sum
 19.05
 853. Car Fleet
 695. Max Area of Island
+394. Decode String
+
+20.05
+1254. Number of Closed Islands
+
+27.05
+359. Logger Rate Limiter
+
+2.06
+528. Random Pick with Weight
