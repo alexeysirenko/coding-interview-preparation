@@ -61,3 +61,10 @@ Leetcode 15. 3Sum
 
 2.06
 528. Random Pick with Weight
+
+4.06
+14. Longest Common Prefix
+1047. Remove All Adjacent Duplicates In String
+
+5.06
+1209. Remove All Adjacent Duplicates in String II
