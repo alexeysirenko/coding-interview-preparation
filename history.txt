@@ -68,3 +68,7 @@ Leetcode 15. 3Sum
 
 5.06
 1209. Remove All Adjacent Duplicates in String II
+
+11.06. 
+739. Daily Temperatures
+937. Reorder Data in Log Files
