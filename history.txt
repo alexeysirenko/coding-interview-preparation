@@ -72,3 +72,13 @@ Leetcode 15. 3Sum
 11.06. 
 739. Daily Temperatures
 937. Reorder Data in Log Files
+
+12.06
+54. Spiral Matrix
+11. Container With Most Water
+
+29.06
+1004. Max Consecutive Ones 3
+
+30.06
+16. 3Sum Closest
