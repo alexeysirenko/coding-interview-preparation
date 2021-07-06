@@ -86,3 +86,6 @@ Leetcode 15. 3Sum
 
 01.07
 48. Rotate Image
+
+06.07
+740. Delete and Earn

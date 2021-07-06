@@ -3,6 +3,7 @@ import math
 class Solution:
     def rotate(self, matrix: List[List[int]]) -> None:
         WIDTH = len(matrix)
+        # we enumerate just 1/4 of matrix surface
         for h in range(math.ceil(WIDTH / 2)):
             for v in range(WIDTH // 2):
                 tmp = matrix[WIDTH - 1 - v][h]
