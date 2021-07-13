@@ -89,3 +89,14 @@ Leetcode 15. 3Sum
 
 06.07
 740. Delete and Earn
+
+07.07
+198. House Robber
+
+10.07
+706. Design HashMap
+50. Pow(x, n)
+242. Valid Anagram
+
+13.07
+18. 4Sum
