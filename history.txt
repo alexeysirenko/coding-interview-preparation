@@ -71,32 +71,53 @@ Leetcode 15. 3Sum
 
 11.06. 
 739. Daily Temperatures
-937. Reorder Data in Log Files
+937. Reorder Data in Log Files +-
 
 12.06
-54. Spiral Matrix
-11. Container With Most Water
+54. Spiral Matrix +
+11. Container With Most Water -
 
 29.06
 1004. Max Consecutive Ones 3
 
 30.06
 16. 3Sum Closest
-1197. Minimum Knight Moves
+1197. Minimum Knight Moves +-
 
 01.07
-48. Rotate Image
+48. Rotate Image -
 
 06.07
-740. Delete and Earn
+740. Delete and Earn --
 
 07.07
-198. House Robber
+198. House Robber +
 
 10.07
-706. Design HashMap
-50. Pow(x, n)
-242. Valid Anagram
+706. Design HashMap +
+50. Pow(x, n) -
+242. Valid Anagram +
 
 13.07
-18. 4Sum
+18. 4Sum -
+
+14.07
+9. Palindrome Number -
+
+15.07
+79. Word Search +
+
+16.07
+139: Word Break -+
+
+17.07
+13. Roman to Integer +- не догадался с конца в начало
+
+18.07
+696. Count Binary Substrings +
+
+19.07
+1448. Count Good Nodes in Binary tree +
+
+20.07
+152. Maximum Product Subarray
