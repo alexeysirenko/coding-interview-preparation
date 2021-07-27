@@ -120,4 +120,16 @@ Leetcode 15. 3Sum
 1448. Count Good Nodes in Binary tree +
 
 20.07
-152. Maximum Product Subarray
+152. Maximum Product Subarray -+
+
+22.07
+1470. Shuffle the Array
+
+24.07
+224. Basic Calculator -
+
+26.07
+227. Basic Calculator II +-
+
+27.07
+1396. Design Underground System
